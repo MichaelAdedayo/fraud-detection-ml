@@ -95,7 +95,7 @@ fraud-detection-project/
 | Model | Precision | Recall | F1-Score |
 |---|---|---|---|
 | Logistic Regression | 0.06 | 0.92 | 0.11 |
-| Random Forest | 0.81 | 0.80 | —0.80|
+| Random Forest | 0.81 | 0.80 | 0.80|
 
 **Business takeaway (example template):**
 "At the chosen threshold, the model catches 81% of fraudulent transactions while flagging
