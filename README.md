@@ -92,9 +92,6 @@ fraud-detection-project/
 
 ## Key Results
 
-*(Fill this in after running the project on your machine — this is what goes in your
-README/resume once you have real numbers.)*
-
 | Model | Precision | Recall | F1-Score |
 |---|---|---|---|
 | Logistic Regression | 0.06 | 0.92 | 0.11 |
