@@ -87,9 +87,7 @@ fraud-detection-project/
 
 7. **(Optional) Walk through the full analysis in the notebook**
    Open `notebooks/fraud_detection_analysis.ipynb` for the narrative version — EDA,
-   reasoning, and business interpretation in one place. This is the file to link on your
-   portfolio/GitHub since it reads top-to-bottom like a case study.
-
+   reasoning, and business interpretation in one place. 
 ## Key Results
 
 | Model | Precision | Recall | F1-Score |
@@ -118,4 +116,4 @@ Jupyter Notebook, joblib
 
 ## Author
 
-Michael Adedayo — [LinkedIn] · [GitHub]
+### Michael Adedayo — 
