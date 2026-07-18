@@ -1,0 +1,15 @@
+# Data
+data/raw/*.csv
+data/processed/*.csv
+
+# Model artifacts
+models/*.pkl
+
+# Environment
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
