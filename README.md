@@ -97,12 +97,12 @@ README/resume once you have real numbers.)*
 
 | Model | Precision | Recall | F1-Score |
 |---|---|---|---|
-| Logistic Regression | — | — | — |
-| Random Forest | — | — | — |
+| Logistic Regression | 0.06 | 0.92 | 0.11 |
+| Random Forest | 0.81 | 0.80 | —0.80|
 
 **Business takeaway (example template):**
-"At the chosen threshold, the model catches X% of fraudulent transactions while flagging
-only Y% of all transactions for manual review — reducing review workload by Z% compared
+"At the chosen threshold, the model catches 81% of fraudulent transactions while flagging
+only 80% of all transactions for manual review — reducing review workload by 80% compared
 to reviewing every transaction manually."
 
 ## Why Recall/Precision Instead of Accuracy
