@@ -116,4 +116,4 @@ Jupyter Notebook, joblib
 
 ## Author
 
-### Michael Adedayo — 
+### Michael Adedayo 
